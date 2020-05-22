@@ -50,15 +50,15 @@ class HeroFull extends React.Component {
           <div className={innerClasses}>
             <div className="hero-content">
               <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-                Landing template for startups
+                The old way to do commerce, online
               </h1>
               <div className="container-xs">
                 <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                  Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+                  Remember shopping in your local area ? We replicate this online. Everyone is welcome to participate and innovate.
                 </p>
                 <div className="reveal-from-bottom" data-reveal-delay="600">
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Pricing and plans
+                  <Button tag="a" color="primary" wideMobile href="http://theopen.market/">
+                    Start dealing now
                   </Button>
                 </div>
               </div>
